@@ -50,7 +50,7 @@ while True:
         elif computer == "p":
             print("")
             print(" The value is Same as Paper")
-            computer_score +=1
+#             computer_score +=1  I have done wrong in the video please remove this line
         elif computer == "s":
             print("")
             print("You lose")
